@@ -1,6 +1,12 @@
+body{
+  font-family: 'Lato', sans-serif;
+}
+
 .ozet{
   width: 50%;
 }
 .aras{
-  width: 60%;
+  height: 40%;
+  width: 15rem;
 }
+
